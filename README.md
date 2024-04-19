@@ -6,5 +6,3 @@
 
 
 ![Vinyy GitHub stats](https://github-readme-stats.vercel.app/api?username=VinyyDev&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinyyDev&hide_progress=true)
